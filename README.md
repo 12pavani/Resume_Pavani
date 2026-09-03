@@ -30,8 +30,6 @@ Skilled in **Jenkins, Git, Docker, and CI/CD automation**, with hands-on experie
 
 ## 🛠️ Technical Skills
 
-## 🛠️ Technical Skills
-
 <p align="center">
 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
