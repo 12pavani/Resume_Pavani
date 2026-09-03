@@ -28,21 +28,51 @@ I am a DevOps Engineer with hands-on experience in **CI/CD, containerization, Ku
 
 ## 🛠️ Technical Skills
 
+## 🛠️ Technical Skills
+
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
 
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy">
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+
+  <img src="https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" alt="JFrog Artifactory">
+
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2">
+
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3">
+
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
+
+  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS VPC">
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+
+  <img src="https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks">
+
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-333333?style=for-the-badge" alt="CI/CD">
+
+  <img src="https://img.shields.io/badge/Pipeline--as--Code-SCM-333333?style=for-the-badge" alt="Pipeline as Code">
 
 </p>
 
