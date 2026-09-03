@@ -2,11 +2,11 @@
 
   <h1>📄 Resume</h1>
 
-  <h3>Vislavath Pavani</h3>
+ <h3>👨‍💻 Vislavath Pavani</h3>
 
-  <p>
-    <strong>DevOps Engineer</strong> 
-  </p>
+<p>
+  <strong>🚀 DevOps Engineer</strong>
+</p>
 
   <p>
     <a href="resume.pdf">
