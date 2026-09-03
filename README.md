@@ -5,7 +5,7 @@
   <h3>Vislavath Pavani</h3>
 
   <p>
-    <strong>DevOps Engineer</strong> • AWS • Kubernetes • Docker • Jenkins
+    <strong>DevOps Engineer</strong> 
   </p>
 
   <p>
@@ -22,7 +22,9 @@
 
 ## 👨‍💻 About Me
 
-I am a DevOps Engineer with hands-on experience in **CI/CD, containerization, Kubernetes, and cloud technologies**. I enjoy building automated deployment pipelines, managing containerized applications, and learning modern DevOps and cloud practices.
+DevOps Engineer with **1+ years of experience** migrating CI/CD pipelines across **9+ enterprise platforms with zero downtime**, integrating **Black Duck and Fortify security scans**, and converting legacy pipelines to **Pipeline-as-Code (SCM)**.
+
+Skilled in **Jenkins, Git, Docker, and CI/CD automation**, with hands-on experience improving **pipeline performance, reliability, and deployment workflows** in enterprise environments.
 
 ---
 
