@@ -13,9 +13,7 @@
       <img src="https://img.shields.io/badge/View-Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
     </a>
     &nbsp;
-    <a href="resume.pdf" download="Pavani_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
-</a>
+    <a href="resume.pdf"> <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"> </a>
   </p>
 
 </div>
