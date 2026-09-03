@@ -2,7 +2,7 @@
 
   <h1>📄 Resume</h1>
 
-  <h3>Your Name</h3>
+  <h3>Vislavath Pavani</h3>
 
   <p>
     <strong>DevOps Engineer</strong> • AWS • Kubernetes • Docker • Jenkins
@@ -70,15 +70,15 @@ My latest resume is available below:
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/pavani-vislavath-208798237?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/12pavani">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:vislavathpavani5123@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
